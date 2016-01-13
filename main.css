@@ -1,1 +1,68 @@
 /* ADD YOUR STYLES HERE */
+
+/* section 6 */
+.center {
+	text-align: center;
+}
+
+.center img {
+	display: inline-block;
+	padding: 20px;
+	vertical-align: top;
+}
+
+.center p {
+	display: inline-block;
+	padding: 20px;
+	vertical-align: top;
+}
+
+.center ol {
+	display: inline-block;
+	padding: 20px;
+	vertical-align: top;
+	text-align: left;
+}
+
+
+/* section 7 */
+.vertical {
+	text-align: center;
+}
+
+.vertical img {
+	display: block;
+	margin: auto;
+	padding: 20px;
+}
+
+.vertical p {
+	display: block;
+	margin: auto;
+	padding: 20px;
+}
+
+.vertical ol {
+	display: inline-block;
+	padding: 20px;
+
+}
+
+/* section 8 */
+
+.inline li {
+	display: inline;
+	float: left;
+}
+
+
+
+/* section 9 */
+
+
+
+
+
+
+/* section 10 */
+
