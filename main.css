@@ -50,7 +50,7 @@
 
 /* section 8 */
 
-.inline li {
+.inline_list li {
 	display: inline;
 	float: left;
 }
@@ -99,6 +99,7 @@
 .inline {
 	display: inline;
 }
+
 a:hover {
 	color: blue;
 }
@@ -111,9 +112,6 @@ a:hover {
 
 
 /*section 12*/
-.padding {
-	padding: 10px;
-}
 
 .overflow {
 	overflow: hidden;
@@ -124,8 +122,14 @@ a:hover {
 	float: left;
 }
 
+.padding {
+	padding: 10px;
+}
 
 
-
+/*section 13*/
+.inline li {
+	display: inline;
+}
 
 
