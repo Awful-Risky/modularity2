@@ -59,10 +59,63 @@
 
 /* section 9 */
 
+.smallbutton {
+	display: inline-block;
+	background: rgba(250, 140, 140, 1);
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	vertical-align: middle;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
 
+.mediumbutton {
+	display: inline-block;
+	background: rgba(250, 140, 140, 1);
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	vertical-align: middle;
+	padding: 20px 30px 20px 30px;
+	text-decoration: none;
+}
 
+.bigbutton {
+	display: inline-block;
+	background: rgba(250, 140, 140, 1);
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	vertical-align: middle;
+	padding: 30px 50px 30px 50px;
+	text-decoration: none;
+}
 
 
 
 /* section 10 */
+
+.inline {
+	display: inline;
+}
+a:hover {
+	color: blue;
+}
+
+/*section 11*/
+.pagination li {
+	display: inline-block;
+	padding: 10px;
+}
+
+
+/*section 12*/
+
+
+
+
+
+
+
 
